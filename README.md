@@ -8,6 +8,8 @@ Code and analysis notebooks accompanying the paper:
 
 This repository contains the analysis pipeline used to identify, track, and characterize overshooting tops (OTs) and their associated anvil clouds, and to reproduce the figures presented in the paper.
 
+DOI: 10.5281/zenodo.22261669
+
 ## Repository contents
 
 | File | Description |
